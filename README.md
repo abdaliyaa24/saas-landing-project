@@ -35,5 +35,6 @@
 
 ### 1. Клонировать проект
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/abdaliyaa24/saas-landing-project.git
+cd saas-landing-project
+
